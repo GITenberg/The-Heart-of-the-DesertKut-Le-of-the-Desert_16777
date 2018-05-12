@@ -1,0 +1,43 @@
+_repo: The-Heart-of-the-DesertKut-Le-of-the-Desert_16777
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Dunton, W. Herbert
+    alias: Dunton, Herbert
+    birthdate: 1878
+    deathdate: 1936
+    gutenberg_agent_id: '7987'
+    url: http://www.gutenberg.org/2009/agents/7987
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morrow, Honoré
+    aliases:
+    - Morrow, Honoré McCue Willsie
+    - Morrow, Honore McCue Willsie
+    - Willsie, Honoré
+    birthdate: 1880
+    deathdate: 1940
+    gutenberg_agent_id: '5479'
+    url: http://www.gutenberg.org/2009/agents/5479
+    wikipedia: http://desmoinesregister.com/extras/iowans/morrow.html
+description: ''
+gutenberg_issued: '2005-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16777'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcc 'PS'
+- !lcsh 'Indians of North America -- West (U.S.) -- Fiction'
+- !lcsh 'Love stories'
+title: 'The Heart of the Desert
+
+  Kut-Le of the Desert'
+url: http://www.gutenberg.org/ebooks/16777
